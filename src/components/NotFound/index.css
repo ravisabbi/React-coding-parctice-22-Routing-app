@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.not-title {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #6d396b;
+  font-weight: 800;
+}
+.not-image {
+  width: 30%;
+  height: 30%;
+}
+
+.not-container {
+  width: 100%;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
